@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+👨‍💻 안주영 1998년생 
+📞 82+ 1057757907
+📧 dksenfn7907@naver.com
+🐦 [https://www.notion.so/SW-51de7d86d73b4cada79d1fb6499ae39b)
+
 <!--
 **AnJuYeong/AnJuYeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
