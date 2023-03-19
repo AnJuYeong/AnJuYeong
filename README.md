@@ -8,7 +8,8 @@
 </br>
 📧 dksenfn7907@naver.com
 </br>
-🐦 [https://www.notion.so/SW-51de7d86d73b4cada79d1fb6499ae39b)
+
+🐦<a href="https://www.notion.so/SW-51de7d86d73b4cada79d1fb6499ae39b" target="_blank"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black"/></a>
 </br>
 </div>
 
