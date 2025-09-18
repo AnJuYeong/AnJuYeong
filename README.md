@@ -10,7 +10,7 @@
 |--------|-------------|------|
 | [DApp Marketplace](https://github.com/AnJuYeong/Dive-To-Space) | 스마트컨트랙트 기반 음악 펀딩 마켓플레이스 DApp | Solidity · next.js · nest.js · AWS |
 | [DApp Marketplace](https://github.com/AnJuYeong/E-SAKAI)| 스마트컨트랙트 기반 NFT 마켓플레이스 DApp | Node.js · React · AWS |
-| [Web2 SaaS Service](https://github.com/AnJuYeong/E-SAKAI)| 스마트컨트랙트 기반 NFT 마켓플레이스 DApp | Node.js · React · AWS |
+| [Web2 Smart Store Service](https://github.com/AnJuYeong/AJJ-teamproject)| 개인 스마트 스토어 쇼핑몰 사이트 | Node.js · js · websocket|
 
 ---
 
