@@ -1,12 +1,12 @@
 ## 👋 Hi there!
-### I’m a Web & Backend Developer JuYeong Ahn.
+### I’m a Web & Backend Developer.
 웹2와 웹3를 넘나드는 풀스택 & 블록체인 개발자
 백엔드 기반의 확장성 있는 서비스를 설계하고 기술을 제품으로 연결하기 위해 꾸준히 배우고 기록합니다.
 
 ---
 
 ### 🌟 About Me
-- 👨‍💻 **Name**: 안주영 (1998년생)
+- 👨‍💻 **Name**: JuYeong Ahn
 - 📧 **Email**: dksenfn7907@naver.com
 - 📝 [Notion 포트폴리오](https://www.notion.so/SW-51de7d86d73b4cada79d1fb6499ae39b)
 
