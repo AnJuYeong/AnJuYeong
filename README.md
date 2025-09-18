@@ -1,50 +1,40 @@
-<div align="center">
-🌻 ###도전하는 것이 즐겁고 끊임없이 발전하는 개발자
-</br>
-</br>
-👨‍💻 안주영 1998년생 
-</br>
-📞 82+ 1057757907
-</br>
-📧 dksenfn7907@naver.com
-</br>
+### 👋 Hi, I’m JuYeong An
+**웹2와 웹3를 잇는 풀스택 & 블록체인 개발자**  
+도전하는 것이 즐겁고 끊임없이 발전하는 개발자입니다.
 
-🐦<a href="https://www.notion.so/SW-51de7d86d73b4cada79d1fb6499ae39b" target="_blank"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black"/></a>
-</br>
-</div>
+---
 
+### 🌟 About Me
+- 👨‍💻 **Name**: 안주영 (1998년생)
+- 📧 **Email**: dksenfn7907@naver.com
+- 📝 [Notion 포트폴리오](https://www.notion.so/SW-51de7d86d73b4cada79d1fb6499ae39b)
 
-</br>
+---
 
+### 🌱 Tech Stack
+**Languages & Frontend**  
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat&logo=TypeScript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
+![React](https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=React&logoColor=white)
 
-<div align="center">
-	🔥Tech Stack🔥
-	</br>
-	</br>
-	<p>
-	<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=React&logoColor=white"/>
-	<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat&logo=TypeScript&logoColor=white" />
-	</p>
-	<p>
-	<img src="https://img.shields.io/badge/NODE.JS-339933?style=flat&logo=Node.js&logoColor=white" />
-	<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=Mysql&logoColor=white" />
-	<img src="https://img.shields.io/badge/SOLIDITY-363636?style=flat&logo=Solidity&logoColor=white" />
-	</p>
-</div>
-<!--
-**AnJuYeong/AnJuYeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend & Infra**  
+![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=flat&logo=Node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=Mysql&logoColor=white)
+![Solidity](https://img.shields.io/badge/SOLIDITY-363636?style=flat&logo=Solidity&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+| Project | Description | Tech |
+|--------|-------------|------|
+| [DApp Marketplace](https://github.com/your-repo) | 스마트컨트랙트 기반 마켓플레이스 DApp | Solidity · React · Node.js |
+| [Web2 SaaS Service](https://github.com/your-repo) | Node.js + AWS EC2 배포 SaaS 서비스 | Node.js · React · AWS |
+
+---
+
+### 📊 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dksenfn&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=dksenfn&theme=radical)
