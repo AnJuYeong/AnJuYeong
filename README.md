@@ -1,5 +1,5 @@
-### 👋 Hi there!
-> I’m JuYeong Ahn
+## 👋 Hi there!
+### I’m Web & Backend Developer.
 웹2와 웹3를 넘나드는 풀스택 & 블록체인 개발자
 백엔드 기반의 확장성 있는 서비스를 설계하고 기술을 제품으로 연결하기 위해 꾸준히 배우고 기록합니다.
 
