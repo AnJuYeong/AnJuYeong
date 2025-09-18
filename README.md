@@ -1,16 +1,3 @@
-### 👋 Hi, I’m JuYeong An  
-**웹2와 웹3를 잇는 풀스택 & 블록체인 개발자**
-
-🌱 **Tech Stack**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-🚀 **Projects**
-- [DApp Market](https://github.com/your-repo) – 스마트컨트랙트 기반 마켓플레이스
-- [Web2 SaaS Service](https://github.com/your-repo) – Node.js + React + AWS EC2 배포
-
 <div align="center">
 🌻 ###도전하는 것이 즐겁고 끊임없이 발전하는 개발자
 </br>
