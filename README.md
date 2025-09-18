@@ -10,6 +10,7 @@
 |--------|-------------|------|
 | [DApp Marketplace](https://github.com/your-repo) | 스마트컨트랙트 기반 마켓플레이스 DApp | Solidity · React · Node.js |
 | [Web2 SaaS Service](https://github.com/your-repo) | Node.js + AWS EC2 배포 SaaS 서비스 | Node.js · React · AWS |
+| [온라인 쇼핑몰 Service]([https://github.com/your-repo](https://github.com/AnJuYeong/AJJ-teamproject)) | Node.js · React · AWS |
 
 ---
 
