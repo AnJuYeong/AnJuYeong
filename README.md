@@ -33,8 +33,3 @@
 ![Nginx](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
----
-
-### 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dksenfn&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=dksenfn&theme=radical)
