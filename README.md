@@ -8,7 +8,7 @@
 ### 🚀 Projects
 | Project | Description | Tech |
 |--------|-------------|------|
-| [DApp Marketplace](https://github.com/your-repo) | 스마트컨트랙트 기반 마켓플레이스 DApp | Solidity · React · Node.js |
+| [DApp Marketplace](https://github.com/AnJuYeong/Dive-To-Space) | 스마트컨트랙트 기반 음악 펀딩 마켓플레이스 DApp | Solidity · next.js · nest.js |
 | [Web2 SaaS Service](https://github.com/your-repo) | Node.js + AWS EC2 배포 SaaS 서비스 | Node.js · React · AWS |
 
 ---
